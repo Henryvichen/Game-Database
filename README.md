@@ -6,9 +6,9 @@ In this app you can search for specific video games, or use the sort button to f
 Once a game is selected, the app will display information about the game including release date, metacritic rating, and screenshots/trailers.
 
 ## Home Screen:
-[![Home](https://i.gyazo.com/5a611dfd3197a0516995db65544764a8.jpg)
+![Home](https://i.gyazo.com/5a611dfd3197a0516995db65544764a8.jpg)
 ## Search Function:
-[![Search](https://i.gyazo.com/eb93c57c98f208804be32ebf9142c9b4.jpg)
+![Search](https://i.gyazo.com/eb93c57c98f208804be32ebf9142c9b4.jpg)
 
 ## Development server
 
