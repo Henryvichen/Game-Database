@@ -1,6 +1,14 @@
 # Game Database
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+This application is a gaming database made using Angular and RAWG's extensive video games database as the source for data. [RAWG](https://rapidapi.com/accujazz/api/rawg-video-games-database/details)
+
+In this app you can search for specific video games, or use the sort button to find a video game with a sorting method of your choice.
+Once a game is selected, the app will display information about the game including release date, metacritic rating, and screenshots/trailers.
+
+## Home Screen:
+[![Home](https://i.gyazo.com/5a611dfd3197a0516995db65544764a8.jpg)
+## Search Function:
+[![Search](https://i.gyazo.com/eb93c57c98f208804be32ebf9142c9b4.jpg)
 
 ## Development server
 
